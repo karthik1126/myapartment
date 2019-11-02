@@ -1,0 +1,15 @@
+{
+  "name": "myapartment",
+  "version": "1.0.0",
+  "description": "new apartment",
+  "main": "index.js",
+  "scripts": {
+    "test": "my test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karthik1126"
+  },
+  "author": "karthik",
+  "license": "ISC"
+}
